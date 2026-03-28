@@ -175,7 +175,7 @@ The scripts use standard Linux utilities that are typically pre-installed:
 
 ```bash
 # Clone from GitHub
-git clone https://github.com/[10Aryan07]/oss-audit-24MIM10151.git
+git clone https://github.com/[10Aryan07]/oss-project-24MIM10151.git
 
 # Navigate to the repository
 cd oss-project-24MIM10151
