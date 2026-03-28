@@ -24,7 +24,7 @@ This repository contains the capstone project for the Open Source Software cours
 ## Repository Structure
 
 ```
-oss-audit-24MIM10151/
+oss-project-24MIM10151/
 │
 ├── README.md                           # This file - Project documentation
 │
