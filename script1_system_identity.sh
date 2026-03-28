@@ -1,8 +1,8 @@
 #!/bin/bash
 # =============================================================================
 # Script 1: System Identity Report
-# Author: Avyagata Medda | Course: Open Source Software
-# Registration No: 24BOE10038
+# Author: Aryan Shandilya | Course: Open Source Software
+# Registration No: 24MIM10151
 # Description: This script introduces the Linux system like a welcome screen,
 #              displaying system information including distribution, kernel,
 #              user details, uptime, and open-source license information.
@@ -10,9 +10,9 @@
 # =============================================================================
 
 # --- Variables ---
-STUDENT_NAME="Avyagata Medda"           # Student name for display
+STUDENT_NAME="Aryan Shandilya"           # Student name for display
 SOFTWARE_CHOICE="Python"              # Chosen open-source software for audit
-REGISTRATION_NO="24BOE10038"          # Student registration number
+REGISTRATION_NO="24MIM10151"          # Student registration number
 
 # --- System Information Collection ---
 # Using command substitution $() to capture command output into variables

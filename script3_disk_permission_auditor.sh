@@ -1,8 +1,8 @@
 #!/bin/bash
 # =============================================================================
 # Script 3: Disk and Permission Auditor
-# Author: Avyagata medda | Course: Open Source Software
-# Registration No: 24BOE10038
+# Author: Aryan Shandilya | Course: Open Source Software
+# Registration No: 24MIM10151
 # Description: This script loops through important system directories and
 #              reports disk usage, owner, and permissions. It also specifically
 #              checks Python-related directories for the audit.
@@ -11,8 +11,8 @@
 # =============================================================================
 
 # --- Configuration ---
-AUTHOR="Avyagata Medda"
-REG_NO="24BOE10038"
+AUTHOR="Aryan Shandilya"
+REG_NO="24MIM10151"
 SOFTWARE="Python"
 
 # --- Header Display ---

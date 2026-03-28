@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================
 # Script 5: Open Source Manifesto Generator
-# Author: Avyagata Medda | Course: Open Source Software
+# Author: Aryan Shandilya | Course: Open Source Software
 # Description: Interactively generates a personalised open-source
 #              philosophy statement from user responses and saves
 #              it to a .txt file.

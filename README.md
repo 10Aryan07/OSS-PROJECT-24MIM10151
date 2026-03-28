@@ -8,8 +8,8 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | Avyagata Medda |
-| **Registration Number** | 24BOE10038 |
+| **Name** | Aryan Shandilya |
+| **Registration Number** | 24MIM10151 |
 | **Date of Submission** | 28.03.2026 |
 | **Chosen Software** | Python |
 
@@ -24,7 +24,7 @@ This repository contains the capstone project for the Open Source Software cours
 ## Repository Structure
 
 ```
-oss-audit-24BOE10040/
+oss-audit-24MIM10151/
 │
 ├── README.md                           # This file - Project documentation
 │
@@ -175,10 +175,10 @@ The scripts use standard Linux utilities that are typically pre-installed:
 
 ```bash
 # Clone from GitHub
-git clone https://github.com/[username]/oss-audit-24BOE10040.git
+git clone https://github.com/[10Aryan07]/oss-audit-24MIM10151.git
 
 # Navigate to the repository
-cd oss-audit-24BOE10040
+cd oss-project-24MIM10151
 ```
 
 ### Step 2: Make Scripts Executable
@@ -282,7 +282,7 @@ Python is released under the PSF License, which is a permissive open-source lice
 
 All scripts in this repository are released for educational purposes as part of the Open Source Software course capstone project.
 
-The project report and documentation are original work by **Shinjan Sain** (Registration No: 24BOE10040).
+The project report and documentation are original work by **Aryan Shandilya** (Registration No: 24MIM10151).
 
 ---
 
@@ -300,8 +300,8 @@ The project report and documentation are original work by **Shinjan Sain** (Regi
 ## Contact
 
 For questions about this project:
-- **Name:** Shinjan Sain
-- **Registration Number:** 24BOE10040
+- **Name:** Aryan Shandilya
+- **Registration Number:** 24MIM10151
 - **Course:** Open Source Software
 
 ---

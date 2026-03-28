@@ -1,8 +1,8 @@
 #!/bin/bash
 # =============================================================================
 # Script 2: FOSS Package Inspector
-# Author: Avyagata Medda | Course: Open Source Software
-# Registration No: 24BOE10038
+# Author: Aryan Shandilya | Course: Open Source Software
+# Registration No: 24MIM10151
 # Description: This script checks whether the chosen software (Python) is
 #              installed on the system, finds its version, and uses a case
 #              statement to print philosophical notes about various FOSS packages.
@@ -12,8 +12,8 @@
 
 # --- Configuration Variables ---
 PACKAGE="python3"                     # Package to inspect (Python 3)
-AUTHOR="Avyagata Medda"
-REG_NO="24BOE10038"
+AUTHOR="Aryan Shandilya"
+REG_NO="24MIM10151"
 
 # --- Display Header ---
 echo "╔══════════════════════════════════════════════════════════════════════════╗"
